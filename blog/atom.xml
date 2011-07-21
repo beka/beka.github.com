@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>beka&#39;s blog blog</title><link href="http://beka.github.com/blog/atom.xml" rel="self"/><link href="http://beka.github.com"/><updated>2011-07-22T01:25:48Z</updated><id>http://beka.github.com</id><entry><title>Guppy: debugging django application memory leak</title><author><name>beka</name></author><link href="http://beka.github.com/blog/2011/debugging_django_app.html"/><updated>2011-07-22T01:18:29Z</updated><published>2011-07-22T01:18:29Z</published><id>http://beka.github.com/blog/2011/debugging_django_app.html</id><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>beka&#39;s blog blog</title><link href="http://beka.github.com/blog/atom.xml" rel="self"/><link href="http://beka.github.com"/><updated>2011-07-22T02:02:52Z</updated><id>http://beka.github.com</id><entry><title>Guppy: debugging django application memory leak</title><author><name>beka</name></author><link href="http://beka.github.com/blog/2011/debugging_django_app.html"/><updated>2011-07-22T01:18:29Z</updated><published>2011-07-22T01:18:29Z</published><id>http://beka.github.com/blog/2011/debugging_django_app.html</id><content type="html">
        
 
-&lt;p&gt;&lt;a href=&quot;http://guppy-pe.sourceforge.net/&quot;&gt;Guppy&lt;/a&gt; is a perfect tool for django application memory memory sizing, profiling and analysis. And &lt;a href=&quot;http://blog.mfabrik.com/2008/03/07/debugging-django-memory-leak-with-trackrefs-and-guppy/&quot;&gt;this&lt;/a&gt; is a nice way to debug your wsgi application.
+&lt;p&gt;&lt;a href=&quot;http://guppy-pe.sourceforge.net/&quot;&gt;Guppy&lt;/a&gt; is a perfect tool for django application&#39;s memory sizing, profiling and analysis. And &lt;a href=&quot;http://blog.mfabrik.com/2008/03/07/debugging-django-memory-leak-with-trackrefs-and-guppy/&quot;&gt;&lt;b&gt;this&lt;b/&gt;&lt;/a&gt; is a nice way to debug your wsgi application.
 &lt;br&gt;&lt;br&gt;
 &lt;img src=&quot;/media/img/guppy.png&quot;&gt;&lt;/p&gt;
 
