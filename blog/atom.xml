@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>beka&#39;s blog blog</title><link href="http://beka.github.com/blog/atom.xml" rel="self"/><link href="http://beka.github.com"/><updated>2011-07-24T12:21:59Z</updated><id>http://beka.github.com</id><entry><title>Garbage Collection -- must read</title><author><name>beka</name></author><link href="http://beka.github.com/blog/2011/garbage_collection.html"/><updated>2011-07-23T22:14:20Z</updated><published>2011-07-23T22:14:20Z</published><id>http://beka.github.com/blog/2011/garbage_collection.html</id><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>beka&#39;s blog blog</title><link href="http://beka.github.com/blog/atom.xml" rel="self"/><link href="http://beka.github.com"/><updated>2011-07-24T12:27:14Z</updated><id>http://beka.github.com</id><entry><title>Garbage Collection —— must read</title><author><name>beka</name></author><link href="http://beka.github.com/blog/2011/garbage_collection.html"/><updated>2011-07-23T22:14:20Z</updated><published>2011-07-23T22:14:20Z</published><id>http://beka.github.com/blog/2011/garbage_collection.html</id><content type="html">
        
 
 &lt;p&gt;Paul R. Wilson, &quot;Uniprocessor Garbage Collection Techniques&quot; [&lt;a href=&quot;http://www.cse.nd.edu/~dthain/courses/cse40243/spring2006/gc-survey.pdf&quot;&gt;PDF&lt;/a&gt;]
 &lt;br&gt;&lt;br&gt;
 Richard Jones, &quot;Garbage Collection: Algorithms for Automatic Dynamic Memory Management&quot; [&lt;a href=&quot;http://www.amazon.com/exec/obidos/ASIN/0471941484/richardjones&quot;&gt;Amazon&lt;/a&gt;]
 &lt;br&gt;&lt;br&gt;
-David Plainfossé, A Survey of Distributed Garbage Collection Techniques [&lt;a href=&quot;http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.45.6060&quot;&gt;index&lt;/a&gt;, &lt;a href=&quot;http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=9F6D0C9943FC16027C36AC1BEA2BAAFC?doi=10.1.1.45.6060&amp;rep=rep1&amp;type=pdf&quot;&gt;pdf&lt;/a&gt;
+David Plainfossé, A Survey of Distributed Garbage Collection Techniques [&lt;a href=&quot;http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.45.6060&quot;&gt;index&lt;/a&gt;, &lt;a href=&quot;http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=9F6D0C9943FC16027C36AC1BEA2BAAFC?doi=10.1.1.45.6060&amp;rep=rep1&amp;type=pdf&quot;&gt;pdf&lt;/a&gt;]
 
    </content></entry><entry><title>Guppy: debugging django application memory leak</title><author><name>beka</name></author><link href="http://beka.github.com/blog/2011/debugging_django_app.html"/><updated>2011-07-22T01:18:29Z</updated><published>2011-07-22T01:18:29Z</published><id>http://beka.github.com/blog/2011/debugging_django_app.html</id><content type="html">
        
