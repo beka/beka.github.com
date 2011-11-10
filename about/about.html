@@ -46,7 +46,13 @@
 <style>
 #disqus_thread {display: none;}
 </style>
-	</head>
+<script language="javascript">
+function toggle(el) 
+{
+  el.style.display = (el.style.display == 'none') ? '' : 'none'
+}
+</script>
+</head>
 
 	<body>
 
@@ -103,6 +109,8 @@
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
+
+<a onlick="var el=this.getElementsById('disqus_thread'); toggle(el);">comment</a>
 
 
 
